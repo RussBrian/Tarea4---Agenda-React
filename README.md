@@ -16,6 +16,8 @@ npm install
 npm start
 ```
 
+Una vez completado estos pasos podra visualizar el siguiente proyeto.
+
 ![imagen](https://github.com/user-attachments/assets/60e15f13-9ae0-443b-b551-424ecdf01e00)
 
 ![374756705-01b908c1-386c-492b-906d-829e0da6e879](https://github.com/user-attachments/assets/08c4e6b4-63cd-4cf9-911a-a1a5aa20f4f1)
