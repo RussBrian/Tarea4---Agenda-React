@@ -2,15 +2,15 @@
 
 ## Acciones para ejecutar el proyecto
 
-## Abrir la terminal una vez clonado el proyecto y proceder con las siguientes acciones:
+Abrir la terminal una vez clonado el proyecto y proceder con las siguientes acciones:
 
-### 1.Se debe ejecutar el siguiente comando para instalar los paquetes de node.
+### 1. Se debe ejecutar el siguiente comando para instalar los paquetes de node.
 
 ```
 npm install
 ```
 
-### 2.Se debe ejecutar el siguiente comando para iniciar el proyecto.
+### 2. Se debe ejecutar el siguiente comando para iniciar el proyecto.
 
 ```
 npm start
