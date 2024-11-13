@@ -2,6 +2,8 @@
 
 ## Acciones para ejecutar el proyecto
 
+## Abrir la terminal una vez clonado el proyecto y proceder con las siguientes acciones:
+
 ### 1.Se debe ejecutar el siguiente comando para instalar los paquetes de node.
 
 ```
